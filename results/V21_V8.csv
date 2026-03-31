@@ -1,0 +1,12 @@
+red,blue,winner,raw_winner,avg_think_time_red,avg_think_time_blue,total_moves,game
+agent,agent2,agent,RED,1.3759,,51,1
+agent2,agent,agent,BLUE,,1.0854,60,2
+agent,agent2,agent2,BLUE,1.2398,,60,3
+agent2,agent,agent,BLUE,,1.3277,52,4
+agent,agent2,agent2,BLUE,1.2928,,54,5
+agent2,agent,agent,BLUE,,1.2871,52,6
+agent,agent2,agent,RED,1.2773,,57,7
+agent2,agent,agent,BLUE,,1.2891,52,8
+agent,agent2,agent2,BLUE,1.2538,,52,9
+agent2,agent,agent2,RED,,1.0699,59,10
+,,,,,1.24988,54.9,
