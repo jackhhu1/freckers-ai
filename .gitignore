@@ -15,7 +15,7 @@ include/
 .DS_Store
 *.zip
 *.xlsx
-*.pdf
+
 node_modules/
 build/
 dist/
